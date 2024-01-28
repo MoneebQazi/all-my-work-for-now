@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+
+h1{
+	color: purple;
+	font-size: 60px;
+}
+
+body{
+
+     font-size: 22px;
+     padding: 10%;
+     /* font-family: sans-serif; */
+     /* background:colour;*/
+  
+
+
+
+}
+
+
+p{
+     color: purple;
+   
+
+
+
+
+}
+
+.gray{
+            color: gray;
+
+
+
+}
+
+
+#second{
+
+       font-style: italic;
+
+
+
+}
+.box{
+     border: solid black;
+     border-width: 20px;
+     width: min-content;
+}
+
+
+p{
+   text-decoration: none;
+   text-transform: none;
+   text-align:left;
+  /*  text-indent: ; */
+   line-height: 1.5;
+  /*  letter-spacing: ;
+   word-spacing: ; */
+   
+   font-weight:normal;
+  font-style: italic;
+}
+
+.box {
+     border:10px double red;
+     outline: solid;
+}
